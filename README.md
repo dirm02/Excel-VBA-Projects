@@ -6,6 +6,6 @@ VBA code test improvement of spreadsheets and internal application
 
 [x] Second Thought : How to loop through 2 set of range 
 
-[x] How to use Intersect function
+[x] How to use Intersect Range
 
 
